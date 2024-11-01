@@ -17,9 +17,10 @@ Other Tools: Git for version control, Visual Studio for development
 
 Some Project Descriptions
 -- Game-Programming-Sample/Images
+![Scene](Images/scene.png)
 
 1. [Project Name: Bouncing Ball Simulation]
-![Bouncing Ball Simulation](images/scene.png)
+
 Description: A simple physics simulation where a ball bounces off walls within a boundary. It demonstrates collision detection and response.
 Skills Used: C++ for logic, Unreal Engine for rendering.
 Highlights: Focuses on physics, boundary conditions, and object interactions.
