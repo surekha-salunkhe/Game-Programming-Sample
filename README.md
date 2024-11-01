@@ -16,7 +16,7 @@ Game Engine: Unreal Engine
 Other Tools: Git for version control, Visual Studio for development
 
 Some Project Descriptions
-![C++ Code](Images/C++ Print.png)
+-- Game-Programming-Sample/Images
 
 1. [Project Name: Bouncing Ball Simulation]
 Description: A simple physics simulation where a ball bounces off walls within a boundary. It demonstrates collision detection and response.
@@ -26,20 +26,6 @@ Highlights: Focuses on physics, boundary conditions, and object interactions.
 Description: A 2D platformer where the player controls a character to navigate through obstacles and reach the end goal.
 Skills Used: Game loops, event handling, and sprite animations.
 Highlights: Designed character movements, implemented score tracking, and introduced simple enemy AI.
-
-Installation & Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/YourUsername/Game-Programming-Projects.git
-cd Game-Programming-Projects
-
-Dependencies:
-Ensure you have Unreal Engine installed.
-For C++ projects, use Visual Studio with the appropriate C++ development kit.
-Running the Projects:
-Open the project in Unreal Engine or Visual Studio.
-Build and run to launch each project individually.
 
 Contact
 For more information, questions, or collaboration, feel free to reach out:
