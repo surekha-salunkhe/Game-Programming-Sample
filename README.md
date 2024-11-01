@@ -19,7 +19,7 @@ Some Project Descriptions
 -- Game-Programming-Sample/Images
 
 1. [Project Name: Bouncing Ball Simulation]
-![Bouncing Ball Simulation](assets/bouncing-ball.png)
+![Bouncing Ball Simulation](images/scene.png)
 Description: A simple physics simulation where a ball bounces off walls within a boundary. It demonstrates collision detection and response.
 Skills Used: C++ for logic, Unreal Engine for rendering.
 Highlights: Focuses on physics, boundary conditions, and object interactions.
