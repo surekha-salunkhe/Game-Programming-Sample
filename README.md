@@ -19,10 +19,11 @@ Some Project Descriptions
 -- Game-Programming-Sample/Images
 
 1. [Project Name: Bouncing Ball Simulation]
+![Bouncing Ball Simulation](assets/bouncing-ball.png)
 Description: A simple physics simulation where a ball bounces off walls within a boundary. It demonstrates collision detection and response.
 Skills Used: C++ for logic, Unreal Engine for rendering.
 Highlights: Focuses on physics, boundary conditions, and object interactions.
-2. [Project Name: Basic 2D Platformer]
+3. [Project Name: Basic 2D Platformer]
 Description: A 2D platformer where the player controls a character to navigate through obstacles and reach the end goal.
 Skills Used: Game loops, event handling, and sprite animations.
 Highlights: Designed character movements, implemented score tracking, and introduced simple enemy AI.
