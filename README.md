@@ -17,7 +17,8 @@ Other Tools: Git for version control, Visual Studio for development
 
 Some Project Descriptions
 -- Game-Programming-Sample/Images
-![Scene](Images/scene.png)
+
+![Scene](Images/Scene.png)
 
 1. [Project Name: Bouncing Ball Simulation]
 
